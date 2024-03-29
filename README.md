@@ -11,10 +11,7 @@ This project focuses on analyzing supply chain dynamics and customer satisfactio
 4. Results and Findings
 5. Recommendations
 6. Future Scope
-7. Dependencies
-8. Installation
-9. Usage
-10. License
+7. Usage
 
 ## 1. Introduction:
 The project aims to provide a comprehensive analysis of supply chain management and customer satisfaction within the context of a retail business. It involves collecting and processing historical sales and inventory data to uncover insights and trends that can drive strategic decision-making.
@@ -34,24 +31,7 @@ Based on the analysis results, strategic recommendations are proposed to address
 ## 6. Future Scope:
 Future enhancements to the project may include predictive analytics, machine learning models for demand forecasting, real-time monitoring solutions, and continuous optimization of business processes.
 
-## 7. Dependencies:
-- Python (version X.X)
-- Pandas (version X.X)
-- NumPy (version X.X)
-- Matplotlib (version X.X)
-- Seaborn (version X.X)
-- Jupyter Notebook (optional)
-
-## 8. Installation:
-To install the required dependencies, run the following command:
-```
-pip install pandas numpy matplotlib seaborn
-```
-
-## 9. Usage:
+## 7. Usage:
 Clone the repository to your local machine and navigate to the project directory. Run the Jupyter Notebook or Python scripts to execute the analysis and view the results. Modify the code as needed for specific use cases or customization.
 
-## 10. License:
-This project is licensed under the [MIT License](LICENSE).
-
-For any questions or inquiries, please contact [project owner/contact person].
+For any questions or inquiries, please contact @PadmajaSharma.

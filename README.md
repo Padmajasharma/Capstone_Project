@@ -34,4 +34,4 @@ Future enhancements to the project may include predictive analytics, machine lea
 ## 7. Usage:
 Clone the repository to your local machine and navigate to the project directory. Run the Jupyter Notebook or Python scripts to execute the analysis and view the results. Modify the code as needed for specific use cases or customization.
 
-For any questions or inquiries, please contact @PadmajaSharma.
+For any questions or inquiries, please contact @Padmajasharma.
